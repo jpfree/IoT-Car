@@ -1,3 +1,7 @@
+# Ever wanted to make a robot without range limits?
+Why not use the internet to control the robot?
+In this project, I have made a car which can be controlled over the internet. You can literally control the robot from anywhere on the globe. All you need is just an internet connection.
+
 # ESP8266 based IoT-Car
 Here you will find all the files required for this project
 
@@ -15,7 +19,3 @@ https://play.google.com/store/apps/details?id=com.rupak.IOTcar
 
 Watch the tutorial video at-
 https://youtu.be/9UJPxHrcjfw
-
-# Ever wanted to make a robot without range limits?
-Why not use the internet to control the robot?
-In this project, I have made a car which can be controlled over the internet. You can literally control the robot from anywhere on the globe. All you need is just an internet connection.
