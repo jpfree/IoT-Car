@@ -21,8 +21,8 @@ Watch the tutorial video at-
 https://youtu.be/9UJPxHrcjfw
 
 # Parts required:
-- An ESP8266 Board
+- ESP8266 Board
 - Couple of motors and wheels
-- A motor driver
+- DUAL motor driver
 - Some jumper cables
 - Batteries
