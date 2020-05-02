@@ -19,3 +19,9 @@ https://play.google.com/store/apps/details?id=com.rupak.IOTcar
 
 Watch the tutorial video at-
 https://youtu.be/9UJPxHrcjfw
+
+# Parts Required:
+- An ESP8266 Board
+- Couple of motors and wheels
+- A motor driver
+- Some jumper cables
