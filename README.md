@@ -15,7 +15,7 @@ Arduino Board Manager Link For ESP8266-
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 Download the app from-
-https://play.google.com/store/apps/details?id=com.rupak.IOTcar
+https://play.google.com/store/apps/details?id=com.rupak.firebaseremote
 
 Watch the tutorial video at-
 https://youtu.be/9UJPxHrcjfw
